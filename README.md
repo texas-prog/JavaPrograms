@@ -12,6 +12,6 @@ Topics Covered:
 - Other Miscellaneous Topics: Recursion, lambda expressions, functional programming, and more.
 
 1.Clone the Branch:
-(git clone -b <branch-name> https://github.com/<your-username>/<repo-name>.git)
+"git clone -b <branch-name> https://github.com/<your-username>/<repo-name>.git"
 
 2.Navigate to the desired program and run it using any Java IDE or the command line.
